@@ -8,3 +8,4 @@ Currently did
 
 * [2020 in Python](./2020/README.md)
 * [2023 in C#](./2023/README.md)
+* [2025 in Rust](./2025/README.md)
